@@ -1,0 +1,42 @@
+python
+java
+javascript
+typescript
+c++
+sql
+mysql
+mongodb
+postgresql
+html
+css
+react
+node.js
+express
+django
+flask
+fastapi
+streamlit
+pandas
+numpy
+scikit-learn
+tensorflow
+pytorch
+machine learning
+deep learning
+nlp
+natural language processing
+data analysis
+data visualization
+rest api
+git
+github
+docker
+aws
+azure
+linux
+postman
+jwt
+oop
+data structures
+algorithms
+agile
